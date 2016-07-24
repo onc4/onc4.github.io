@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3F3F3F;}
+	.st1{fill:none;stroke:#3F3F3F;stroke-width:4;stroke-miterlimit:10;}
+	.st2{fill:#F8F8F8;}
+</style>
+<g id="XMLID_6156_">
+	<path id="XMLID_13_" class="st0" d="M32,6.929c13.824,0,25.071,11.247,25.071,25.071S45.824,57.071,32,57.071
+		S6.929,45.824,6.929,32S18.176,6.929,32,6.929 M32,5C17.088,5,5,17.088,5,32s12.088,27,27,27s27-12.088,27-27S46.912,5,32,5L32,5z"
+		/>
+</g>
+<line id="XMLID_6154_" class="st1" x1="4" y1="6" x2="60" y2="6"/>
+<circle id="XMLID_6153_" class="st0" cx="4" cy="6" r="4"/>
+<circle id="XMLID_6152_" class="st0" cx="60" cy="6" r="4"/>
+<circle id="XMLID_6149_" class="st0" cx="32" cy="6" r="6"/>
+<circle id="XMLID_6148_" class="st2" cx="32" cy="6" r="4"/>
+<circle id="XMLID_6132_" class="st0" cx="32" cy="58" r="6"/>
+<circle id="XMLID_6131_" class="st2" cx="32" cy="58" r="4"/>
+<circle id="XMLID_6129_" class="st0" cx="58" cy="32" r="6"/>
+<circle id="XMLID_6103_" class="st2" cx="58" cy="32" r="4"/>
+<circle id="XMLID_6101_" class="st0" cx="6" cy="32" r="6"/>
+<circle id="XMLID_6100_" class="st2" cx="6" cy="32" r="4"/>
+</svg>
